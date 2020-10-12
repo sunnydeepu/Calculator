@@ -10,7 +10,7 @@ package Calculations1;
  * @author D V N SANDEEP
  */
 public class Calculator1 extends javax.swing.JFrame {
-    double firstnum;
+    double firstnum23;
     double secondnum;
     double result;
     String operations;
